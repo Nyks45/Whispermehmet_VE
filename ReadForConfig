@@ -1,0 +1,2 @@
+use "make ARCH=arm whisper_defconfig" for Whisper 1.0 kernel
+use "make ARCH=arm mehmet_ve_defconfig" for non-modified device kernel
